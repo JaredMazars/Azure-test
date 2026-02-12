@@ -5,6 +5,9 @@ node_modules/
 dist/
 build/
 
+# Azure deployment
+.deployment
+
 # Environment variables
 .env
 .env.local
